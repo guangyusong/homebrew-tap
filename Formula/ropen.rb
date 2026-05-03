@@ -1,8 +1,8 @@
 class Ropen < Formula
   desc "Open remote terminal paths locally on macOS"
   homepage "https://github.com/guangyusong/ropen"
-  url "https://github.com/guangyusong/ropen/archive/refs/tags/v0.1.1.tar.gz"
-  sha256 "ee288ad325fc131d0a1413f2e28a5343a9cb3ed5023f7c65d354cf5d794d3786"
+  url "https://github.com/guangyusong/ropen/archive/refs/tags/v0.1.2.tar.gz"
+  sha256 "f9bcb0a9d23f79f88ae0e18fb808752379e4aa604ab29bd4a090dd716e9411b4"
   license "MIT"
 
   depends_on "go" => :build
